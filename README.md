@@ -1,2 +1,2 @@
 # paper
-paper
+A paper repository.
